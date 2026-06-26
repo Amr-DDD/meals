@@ -8,7 +8,6 @@ A multi-screen Flutter application that allows users to browse meal categories, 
 * **Recipe Details:** View high-quality images, comprehensive ingredient lists, and step-by-step cooking instructions for every meal.
 * **Favorites System:** Tap the star icon on any meal to save it to your Favorites tab for quick access later.
 * **Dietary Filters:** Use the side drawer to apply global filters for Gluten-Free, Lactose-Free, and Vegetarian meals.
-* 
 ---
 
 
